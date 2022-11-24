@@ -45,7 +45,7 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
   의자에 놓고 사람의 유무를 판단하는 프로젝트입니다.  
   
 📕2022 Opencv를 활용한 배경 이미지 바꾸기  
-OpenCV를 사용하여 
+
 📕2022 Opencv를 활용한 실시간 감정,성별 분석
 
 # 📙 현재 공부하고 있는 분야 📙   
