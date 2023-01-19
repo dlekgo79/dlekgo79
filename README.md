@@ -3,6 +3,7 @@
 Hi I'm Lee Dahae.     
 I'm a third year student at Hallym University.My major is BigData.     
 I'm currently studying Deep learning, machine learning, Multimedia Computing.  
+
 # 🎓 학력 🎓
 
 🎓  강남초등학교   
@@ -36,25 +37,40 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 📗2021년 하계 York 연수    
 📗2022년 하계 York 연수  
 📗2022년 파이썬을 이용한 데이터 분석 수료  
-📗2022년 
+📗2023년 LG Aimers 
 
 # 📕 프로젝트 📕  
-📕2021 공학관 자리 유뮤 판단 프로그램  
+📕2021년 공학관 자리 유뮤 판단 프로그램  
 
   공학관에 자리 유무를 판단하기 위해 센서를 부착한 방석을   
   의자에 놓고 사람의 유무를 판단하는 프로젝트입니다.  
   
-📕2022 Opencv를 활용한 배경 이미지 바꾸기  
+📕2022년 Opencv를 활용한 배경 이미지 바꾸기  
+📕2022년 u-net을 이용한 noise 제거 사진 복원  
+📕2022년 Opencv를 활용한 실시간 감정,성별 분석  
+📕2022년 심근경색 머신러닝 분석  
 
-📕2022 Opencv를 활용한 실시간 감정,성별 분석
+# 📓 교육 멘토 📓   
+📓2023년 네이버 1784 스쿨 혁명 대학생 멘토    
+
 
 # 📙 현재 공부하고 있는 분야 📙   
-📙U-net을 이용한 noise 제거 사진 복원  
-📙machine learning을 활용한 심장 질환 사망률 분석  
+📙diffusion model deblur restoration  
+📙deep learning cs230  
+📙백준 알고리즘  
 
-# 📓 다룰수있는 기술 📓  
-<img src="파이썬.png" width="90%"></img>
+# :blue_book: AI 대회 :blue_book:
+:blue_book: 데이콘 교원 AI 참가
 
+# 📒 다룰수 있는 기술 📒  
+ 📒 파이썬  
+ 📒 자바   
+ 📒 파이토치    
+ 📒 c언어   
+ 📒 자바스크립트  
 
-
-
+# ✏️2023 목표 ✏️  
+✏️AI 경진 대회 참여 많이 하기  
+✏️백준 알고리즘 골드  
+✏️캡스톤 서비스화 하기  
+✏️파이썬 멘토  
