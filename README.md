@@ -37,7 +37,7 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 📗2021년 하계 York 연수    
 📗2022년 하계 York 연수  
 📗2022년 파이썬을 이용한 데이터 분석 수료  
-📗2023년 LG Aimers 
+📗2023년 LG Aimers 수료
 
 # 📕 프로젝트 📕  
 📕2021년 공학관 자리 유뮤 판단 프로그램  
