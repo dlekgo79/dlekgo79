@@ -41,10 +41,6 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 
 # 📕 프로젝트 📕  
 📕2021년 공학관 자리 유뮤 판단 프로그램  
-
-  공학관에 자리 유무를 판단하기 위해 센서를 부착한 방석을   
-  의자에 놓고 사람의 유무를 판단하는 프로젝트입니다.  
-  
 📕2022년 Opencv를 활용한 배경 이미지 바꾸기  
 📕2022년 u-net을 이용한 noise 제거 사진 복원  
 📕2022년 Opencv를 활용한 실시간 감정,성별 분석  
