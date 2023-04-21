@@ -30,7 +30,8 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 💡2022년 학술동아리 씨애랑 인공지능 팀 부원  
 
 💡2022년 Multimedia Computing 연구실 MMC 인턴  
- 
+
+💡2023년 스마트IoT 학생회 'ToU' 기획/사무 국장 
  
 # 📗 연수 📗  
 📗2021년 강원 테그 인공지능 수료     
@@ -46,12 +47,14 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 📕2022년 Opencv를 활용한 실시간 감정,성별 분석  
 📕2022년 심근경색 머신러닝 분석  
 📕2023년 Diffusion을 이용한 빛번짐 제거
+📕2023년 AI 면접관
 # 📓 교육 멘토 📓   
 📓2023년 네이버 1784 스쿨 혁명 대학생 멘토    
-
+📓2023년 유봉여자 중학교 인공지능 방과후 교사
 
 # 📙 현재 공부하고 있는 분야 📙   
 📙deep learning cs230  
+📙GAN
 📙백준 알고리즘  
 
 # :blue_book: AI 대회 :blue_book:
