@@ -46,7 +46,7 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 📕2022년 u-net을 이용한 noise 제거 사진 복원  
 📕2022년 Opencv를 활용한 실시간 감정,성별 분석  
 📕2022년 심근경색 머신러닝 분석  
-📕2023년 Diffusion을 이용한 빛번짐 제거
+📕2023년 Diffusion을 이용한 빛번짐 제거  
 📕2023년 AI 면접관
 # 📓 교육 멘토 📓   
 📓2023년 네이버 1784 스쿨 혁명 대학생 멘토    
@@ -54,7 +54,7 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 
 # 📙 현재 공부하고 있는 분야 📙   
 📙deep learning cs230  
-📙GAN
+📙GAN  
 📙백준 알고리즘  
 
 # :blue_book: AI 대회 :blue_book:
