@@ -47,14 +47,16 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 📕2022년 Opencv를 활용한 실시간 감정,성별 분석  
 📕2022년 심근경색 머신러닝 분석  
 📕2023년 Diffusion을 이용한 빛번짐 제거  
-📕2023년 AI 면접관
+📕2023년 Capstone GAN을 통한 생성한 가상면접관과 면접후 영상 분석 피드백 
+
 # 📓 교육 멘토 📓   
 📓2023년 네이버 1784 스쿨 혁명 대학생 멘토    
 📓2023년 유봉여자 중학교 인공지능 방과후 교사
 
 # 📙 현재 공부하고 있는 분야 📙   
 📙deep learning cs230  
-📙GAN  
+📙diffusion 생성
+📙자율 주행 자동차 운전자 식별
 📙백준 알고리즘  
 
 # :blue_book: AI 대회 :blue_book:
