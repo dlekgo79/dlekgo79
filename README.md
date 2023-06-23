@@ -23,8 +23,6 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 
 💡2021년 학술동아리 노네임 웹프로그래밍 멘티  
 
-🌱2021년 SW Week github 이력서 동상  
-
 💡2022년 스마트IoT 학생회 '이음' 홍보 국장  
 
 💡2022년 학술동아리 씨애랑 인공지능 팀 부원  
@@ -32,6 +30,12 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 💡2022년 Multimedia Computing 연구실 MMC 인턴  
 
 💡2023년 스마트IoT 학생회 'ToU' 기획/사무 국장 
+
+# 🏆 수상 경력 🏆
+
+🏆 2021년 SW Week github 이력서 동상  
+🏆 한림대학교 2023 1학기 Capstone 우수상
+
  
 # 📗 연수 📗  
 . 2021년 강원 테그 인공지능 수료   
@@ -60,7 +64,8 @@ I'm currently studying Deep learning, machine learning, Multimedia Computing.
 . 백준 알고리즘  
 
 # :blue_book: AI 대회 :blue_book:
-:blue_book: 데이콘 교원 AI 참가
+ . 2021년 SW Week github 이력서 동상
+ . 교원 AI 참가
 
 # 📒 다룰수 있는 기술 📒  
  .  파이썬  
