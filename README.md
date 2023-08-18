@@ -21,7 +21,8 @@ My final goal is to become a deep learning engineer who is helpful to people.
 - 2021년 학술동아리 노네임 웹프로그래밍 멘티  
 - 2022년 스마트IoT 학생회 '이음' 홍보 국장  
 - 2022년 학술동아리 씨애랑 인공지능 팀 부원  
-- 2023년 스마트IoT 학생회 'ToU' 기획/사무 국장 
+- 2023년 스마트IoT 학생회 'ToU' 기획/사무 국장
+- 2023년 하나 디지털 파워 온 2기  
 
 # 🏆 Awards  
 
@@ -30,7 +31,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 -  강원 SW 페스티벌 우수상 <AI를 활용한 가상면접관>
 
   # ⭐ Intern
-  - 2022년 ~ 현재 / 한림대학교 Multimedia Computing 연구실 MMC 인턴  
+  - 2022년 ~ 2023. / 한림대학교 Multimedia Computing 연구실 MMC 인턴  
  
 # 📗 AI Education   
 . 2021년 강원 테그 인공지능 수료   
