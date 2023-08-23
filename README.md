@@ -39,7 +39,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 . 2021년 하계 York 연수    
 . 2022년 하계 York 연수  
 . 2022년 파이썬을 이용한 데이터 분석 수료  
-. 2023년 LG Aimers 수료
+. 2023년 LG Aimers 수료  
 . 2023년 하나 디지털 파워 온 2기  
 
 # 📕 Project
