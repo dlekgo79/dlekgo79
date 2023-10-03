@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------
 Hi I'm Lee Dahae.     
 I'm a third year student at Hallym University.My major is BigData.     
-I'm currently studying Deep learning, machine learning, Multimedia Computing,generation model.   
+I'm currently studying Deep learning, machine learning, Multimedia Computing,generation model,3D Segmentation.   
 My final goal is to become a deep learning engineer who is helpful to people.
 
 # 🎓 Education
