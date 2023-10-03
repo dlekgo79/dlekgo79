@@ -32,7 +32,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 
   # ⭐ Intern
   - 2022년 ~ 2023. / 한림대학교 Multimedia Computing 연구실 MMC 인턴
-  - 2023년9.1 ~ / 삼성 메디슨 AI 부서 인턴
+  - 2023년9.1 ~ / 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
  
 # 📗 AI Education   
 . 2021년 강원 테그 인공지능 수료   
@@ -67,6 +67,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 
 # 📙 My study      
 . diffusion 생성 모델  
+. 3D Segmentation  
 . 자율 주행 자동차 운전자 식별  
 
 # :blue_book: AI Compition
