@@ -29,6 +29,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 -  2021년 SW Week github 이력서 동상  
 -  한림대학교 2023 1학기 Capstone 우수상 <AI를 활용한 가상면접관>
 -  강원 SW 페스티벌 우수상 <AI를 활용한 가상면접관>
+-  소외계층을 위한 AI 아이디어 공모전 우수상 <생성형 모델을 이용한 치매 예방 대화형 플랫폼>
 
   # ⭐ Intern
   - 2022년 ~ 2023. / 한림대학교 Multimedia Computing 연구실 MMC 인턴
@@ -69,6 +70,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
 . diffusion 생성 모델  
 . 3D Segmentation  
 . 자율 주행 자동차 운전자 식별  
+. StyleClip을 이용한 얼굴 생성
 
 # :blue_book: AI Compition
  . 교원 AI 참가 (42/430)  
