@@ -32,8 +32,8 @@ My final goal is to become a deep learning engineer who is helpful to people.
 -  소외계층을 위한 AI 아이디어 공모전 우수상 <생성형 모델을 이용한 치매 예방 대화형 플랫폼>
 
   # ⭐ Intern
-  - 2022년 ~ 2023. / 한림대학교 Multimedia Computing 연구실 MMC 인턴
-  - 2023년9.1 ~ / 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
+  - 2022.7.1 ~ 2023.9.1 / 한림대학교 Multimedia Computing 연구실 MMC 인턴
+  - 2023.9.1 ~ 2024.3.1/ 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
  
 # 📗 AI Education   
 . 2021년 강원 테그 인공지능 수료   
@@ -61,16 +61,17 @@ My final goal is to become a deep learning engineer who is helpful to people.
  
 <2023년 Capstone GAN을 통한 생성한 가상면접관과 면접후 영상 분석 피드백>   
 - https://github.com/hwangmyeongwon/2023_Capstone
+  
+<2023년 생성형 모델을 이용한 치매 예방 메모리키퍼>  
+<2023년 medical NT segmentation>
 
 # 📓 Mentor    
 . 2023년 02 ~ 2023년 02 / 네이버 1784 스쿨 혁명 대학생 멘토    
 . 2023년 03월 ~ 2023년 07 / 유봉여자 중학교 인공지능 방과후 교사
 
 # 📙 My study      
-. diffusion 생성 모델  
+. Diffusion    
 . 3D Segmentation  
-. 자율 주행 자동차 운전자 식별  
-. StyleClip을 이용한 얼굴 생성
 
 # :blue_book: AI Compition
  . 교원 AI 참가 (42/430)  
