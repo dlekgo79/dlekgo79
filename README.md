@@ -36,12 +36,12 @@ My final goal is to become a deep learning engineer who is helpful to people.
   - 2023.9.1 ~ 2024.3.1/ 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
  
 # 📗 AI Education   
-. 2021년 강원 테그 인공지능 수료   
-. 2021년 하계 York 연수    
-. 2022년 하계 York 연수  
-. 2022년 파이썬을 이용한 데이터 분석 수료  
-. 2023년 LG Aimers 수료  
-. 2023년 하나 디지털 파워 온 2기  
+- 2021년 강원 테그 인공지능 수료   
+- 2021년 하계 York 연수    
+- 2022년 하계 York 연수  
+- 2022년 파이썬을 이용한 데이터 분석 수료  
+- 2023년 LG Aimers 수료  
+- 2023년 하나 디지털 파워 온 2기  
 
 # 📕 Project
 <2021년 공학관 자리 유뮤 판단 프로그램>  
@@ -64,6 +64,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
   
 <2023년 생성형 모델을 이용한 치매 예방 메모리키퍼>  
 <2023년 medical NT segmentation>
+- https://github.com/dlekgo79/medical
 
 # 📓 Mentor    
 . 2023년 02 ~ 2023년 02 / 네이버 1784 스쿨 혁명 대학생 멘토    
