@@ -11,6 +11,7 @@ My final goal is to become a deep learning engineer who is helpful to people.
  - 구암중학교  
  - 세화여자고등학교  
  - 한림대학교 : Major in BigData
+ - 한림대학교 대학원 석사 : Major in Department of Computer Science and Engineering
 
 # 💡 Club 
 
