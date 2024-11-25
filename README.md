@@ -15,34 +15,34 @@ My final goal is to become a deep learning engineer who is helpful to people.
 
 # 💡 Club 
 
-- 2020년 빅데이터 학생회 'Day' 사무부원  
-- 2020년 학술동아리 노네임 자바 멘티  
-- 2021년 빅데이터 학생회 'plus' 복지부원   
-- 2021년 창업동아리 트라움 팀장  
-- 2021년 학술동아리 노네임 웹프로그래밍 멘티  
-- 2022년 스마트IoT 학생회 '이음' 홍보 국장  
-- 2022년 학술동아리 씨애랑 인공지능 팀 부원  
-- 2023년 스마트IoT 학생회 'ToU' 기획/사무 국장
+- 2020 빅데이터 학생회 'Day' 사무부원  
+- 2020 학술동아리 노네임 자바 멘티  
+- 2021 빅데이터 학생회 'plus' 복지부원   
+- 2021 창업동아리 트라움 팀장  
+- 2021 학술동아리 노네임 웹프로그래밍 멘티  
+- 2022 스마트IoT 학생회 '이음' 홍보 국장  
+- 2022 학술동아리 씨애랑 인공지능 팀 부원  
+- 2023 스마트IoT 학생회 'ToU' 기획/사무 국장
 
 
 # 🏆 Awards  
-
--  2021년 SW Week github 이력서 동상  
--  한림대학교 2023 1학기 Capstone 우수상 <AI를 활용한 가상면접관>
--  강원 SW 페스티벌 우수상 <AI를 활용한 가상면접관>
--  소외계층을 위한 AI 아이디어 공모전 우수상 <생성형 모델을 이용한 치매 예방 대화형 플랫폼>
+-  2021 SW Week github 이력서 동상  
+-  2023 한림대학교 2023 1학기 Capstone 우수상 <AI를 활용한 가상면접관>
+-  2023 강원 SW 페스티벌 우수상 <AI를 활용한 가상면접관>
+-  2023 소외계층을 위한 AI 아이디어 공모전 우수상 <생성형 모델을 이용한 치매 예방 대화형 플랫폼>
+-  2024 제 2회 한림의료원 Clinical data 경진대회 우수상 <clinical data를 기반 논문 추천 시스템>   
 
   # ⭐ Intern
   - 2022.7.1 ~ 2023.9.1 / 한림대학교 Multimedia Computing 연구실 MMC 인턴
   - 2023.9.1 ~ 2024.3.1/ 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
  
 # 📗 AI Education   
-- 2021년 강원 테그 인공지능 수료   
-- 2021년 하계 York 연수    
-- 2022년 하계 York 연수  
-- 2022년 파이썬을 이용한 데이터 분석 수료  
-- 2023년 LG Aimers 수료  
-- 2023년 하나 디지털 파워 온 2기  
+- 2021 강원 테그 인공지능 수료   
+- 2021 하계 York 연수    
+- 2022 하계 York 연수  
+- 2022 파이썬을 이용한 데이터 분석 수료  
+- 2023 LG Aimers 수료  
+- 2023 하나 디지털 파워 온 2기  
 
 # 📕 Project
 <2021년 공학관 자리 유뮤 판단 프로그램>  
@@ -73,7 +73,9 @@ My final goal is to become a deep learning engineer who is helpful to people.
 
 # 📙 My study      
 . Diffusion    
-. 3D Segmentation  
+. 3D Segmentation    
+. LLM Rag Chain Application   
+
 
 # :blue_book: AI Compition
  . 교원 AI 참가 (42/430)  
