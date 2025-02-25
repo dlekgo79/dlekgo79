@@ -13,18 +13,6 @@ My final goal is to become a deep learning engineer who is helpful to people.
  - 한림대학교 : Major in BigData
  - 한림대학교 대학원 석사 : Major in Department of Computer Science and Engineering
 
-# 💡 Club 
-
-- 2020 빅데이터 학생회 'Day' 사무부원  
-- 2020 학술동아리 노네임 자바 멘티  
-- 2021 빅데이터 학생회 'plus' 복지부원   
-- 2021 창업동아리 트라움 팀장  
-- 2021 학술동아리 노네임 웹프로그래밍 멘티  
-- 2022 스마트IoT 학생회 '이음' 홍보 국장  
-- 2022 학술동아리 씨애랑 인공지능 팀 부원  
-- 2023 스마트IoT 학생회 'ToU' 기획/사무 국장
-
-
 # 🏆 Awards  
 -  2021 SW Week github 이력서 동상  
 -  2023 한림대학교 2023 1학기 Capstone 우수상 <AI를 활용한 가상면접관>
