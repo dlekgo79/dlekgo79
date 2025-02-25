@@ -1,7 +1,7 @@
 # 👋Dahae Portfolio👋
 -------------------------------------------------------------------------------------------------------------
 Hi, I'm Lee Dahae.
-I'm a third-year student at Hallym University, majoring in Big Data. 
+I'm a third-year student at Hallym University, majoring in Big Data.    
 Currently, I'm studying deep learning, machine learning, multimedia computing, generative models.   
 My ultimate goal is to become a deep learning engineer who makes a meaningful impact on people's lives.   
 
