@@ -1,6 +1,6 @@
 # 🎯 About Me
 
-안녕하세요! 저는 **이름 (Lee Dahae)** 입니다. 
+안녕하세요! 저는 **이다해** 입니다. 
 
 - 🎓 한림대학교 컴퓨터공학과 석사 재학
 - 🔍 Interests: Deep Learning, Multimedia Computing, Generative Models, Large Language Models (LLM)
