@@ -1,77 +1,91 @@
-# 👋Dahae Portfolio👋
--------------------------------------------------------------------------------------------------------------
-Hi, I'm Lee Dahae.
-I'm a third-year student at Hallym University, majoring in Big Data.    
-Currently, I'm studying deep learning, machine learning, multimedia computing, generative models.   
-My ultimate goal is to become a deep learning engineer who makes a meaningful impact on people's lives.   
+# 🎯 About Me
 
-# 🎓 Education
+안녕하세요! 저는 **이름 (Lee Dahae)** 입니다. 
 
- - 강남초등학교   
- - 구암중학교  
- - 세화여자고등학교  
- - 한림대학교 : Major in BigData
- - 한림대학교 대학원 석사 : Major in Department of Computer Science and Engineering
+- 🎓 한림대학교 컴퓨터공학과 석사 재학
+- 🔍 Interests: Deep Learning, Multimedia Computing, Generative Models, Large Language Models (LLM)
+- 💡 사람들에게 도움이 되는 기술 개발이 목표입니다!
 
-# 🏆 Awards  
--  2021 SW Week github 이력서 동상  
--  2023 한림대학교 2023 1학기 Capstone 우수상 <AI를 활용한 가상면접관>
--  2023 강원 SW 페스티벌 우수상 <AI를 활용한 가상면접관>
--  2023 소외계층을 위한 AI 아이디어 공모전 우수상 <생성형 모델을 이용한 치매 예방 대화형 플랫폼>
--  2024 제 2회 한림의료원 Clinical data 경진대회 우수상 <clinical data를 기반 논문 추천 시스템>   
+📫 **Contact**: [Email](#) | [LinkedIn](#) | [Portfolio](#)
 
-  # ⭐ Intern
-  - 2022.7.1 ~ 2023.9.1 / 한림대학교 Multimedia Computing 연구실 MMC 인턴
-  - 2023.9.1 ~ 2024.3.1/ 삼성 메디슨 AI Vision 3D 영상 파트 인턴  
- 
-# 📗 AI Education   
-- 2021 강원 테그 인공지능 수료   
-- 2021 하계 York 연수    
-- 2022 하계 York 연수  
-- 2022 파이썬을 이용한 데이터 분석 수료  
-- 2023 LG Aimers 수료  
-- 2023 하나 디지털 파워 온 2기  
+---
 
-# 📕 Project
-<2021년 공학관 자리 유뮤 판단 프로그램>  
- 
-<2022년 Opencv를 활용한 배경 이미지 바꾸기>  
-- https://github.com/dlekgo79/image-processing-project
-     
-<2022년 u-net을 이용한 noise 제거 사진 복원>  
+## 🏆 Awards & Achievements
 
-<2022년 Opencv를 활용한 실시간 감정,성별 분석>  
- - https://github.com/dlekgo79/FaceDetect
-  
-<2022년 심근경색 머신러닝 분석>
- 
-<2023년 Diffusion을 이용한 빛번짐 제거>    
-- https://github.com/dlekgo79/diffusion-deblur
- 
-<2023년 Capstone GAN을 통한 생성한 가상면접관과 면접후 영상 분석 피드백>   
-- https://github.com/hwangmyeongwon/2023_Capstone
-  
-<2023년 생성형 모델을 이용한 치매 예방 메모리키퍼>  
-<2023년 medical NT segmentation>
-- https://github.com/dlekgo79/medical
+- 🥇 **2023 한림대학교 1학기 Capstone 우수상** - *AI를 활용한 가상면접관*
+- 🏆 **2023 강원 SW 페스티벌 우수상** - *AI를 활용한 가상면접관*
+- 🎖 **2023 소외계층을 위한 AI 아이디어 공모전 우수상** - *생성형 모델을 이용한 치매 예방 대화형 플랫폼*
+- 🏅 **2024 제 2회 한림의료원 Clinical Data 경진대회 우수상** - *Clinical Data를 기반 논문 추천 시스템*
 
-# 📓 Mentor    
-. 2023년 02 ~ 2023년 02 / 네이버 1784 스쿨 혁명 대학생 멘토    
-. 2023년 03월 ~ 2023년 07 / 유봉여자 중학교 인공지능 방과후 교사
+---
 
-# 📙 My study      
-. Diffusion    
-. 3D Segmentation    
-. LLM Rag Chain Application   
+## 🎓 Mentorship & Teaching
+
+- 👨‍🏫 **네이버 1784 스쿨 혁명 대학생 멘토** 
+  - 딥러닝 및 머신러닝 관련 교육 및 멘토링 진행
+- 🏫 **유봉여자 중학교 인공지능 방과후 교사**
+  - 빅데이터 및 AI 관련 수업 보조
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📂 Projects
 
 
-# :blue_book: AI Compition
- . 교원 AI 참가 (42/430)  
- . 2023 SW중심대학 공동 AI 경진대회 참가 (80/227)
 
-# 📒 Skill 
- .  파이썬  
- .  자바   
- .  파이토치    
- .  c언어   
- .  자바스크립트  
+### 1️⃣ **Medical NT Segmentation**  
+📌 **설명**: 의료 영상에서 병변 영역을 세분화하는 딥러닝 모델을 개발. U-Net 기반으로 노이즈 제거 및 정밀한 분할 가능.  
+📊 **기술 스택**: `Python`, `TensorFlow`, `U-Net`, `Medical Image Processing`  
+🔗 **Repo**: [GitHub 링크](https://github.com/dlekgo79/medical)
+
+---
+
+### 2️⃣ **GAN을 통한 생성한 가상면접관과 면접후 영상 분석 피드백**  
+📌 **설명**: GAN을 활용해 가상 면접관을 생성하고, 인터뷰 영상을 분석하여 피드백을 제공하는 AI 시스템.  
+📊 **기술 스택**: `PyTorch`, `GANs`, `Computer Vision`, `Video Analysis`  
+🔗 **Repo**: [GitHub 링크](https://github.com/hwangmyeongwon/2023_Capstone)
+
+---
+
+
+### 3️⃣ **Clinical Data를 기반 논문 추천 시스템**  
+📌 **설명**: 한림의료원의 Clinical Data를 활용하여 연구자들에게 최적의 논문을 추천하는 AI 기반 시스템을 개발.  
+📊 **기술 스택**: `Python`, `Machine Learning`, `Ragchain`  
+🔗 **Repo**: [GitHub 링크](https://github.com/dlekgo79/LLM-Rag-Chain)   
+
+---
+
+### 4️⃣ **생성형 모델을 이용한 치매 예방 메모리키퍼**  
+📌 **설명**: 생성형 AI를 이용해 치매 예방을 위한 대화형 메모리 보조 시스템을 개발. 사용자의 기억력을 유지하고 상호작용을 돕는 기능을 제공.  
+📊 **기술 스택**: `PyTorch`, `GANs`, `LLM`  
+🔗 **Repo**: [GitHub 링크](#)
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlekgo79&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlekgo79&layout=compact&theme=radical)
+
+---
+
+## 🎯 Goals
+
+- [ ] 2025년까지 딥러닝 관련 연구 기여하기
+- [ ] 논문 리뷰 및 구현 블로그 작성하기
+
+---
+
