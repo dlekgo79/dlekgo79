@@ -42,6 +42,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## 📂 Ongoing Projects
+### 1️⃣ **Patient data analysis and LLM-based medical literature recommendation system.**  
+📌 **설명**: 환자 정보 분석 및 LLM 기반 의료 논문 추천 시스템
+
+
+### 2️⃣ **Development of an AI model for classifying gallbladder cancer and cholecystitis.**  
+📌 **설명**: 담낭암과 담낭염 분류 AI 모델 개발
 
 ## 📂 Projects
 
